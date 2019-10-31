@@ -6,7 +6,7 @@ import * as ws from "ws";
 import * as http from "http";
 import * as url from "url";
 import * as net from "net";
-import * as express from "express";
+import express from "express";
 import * as rpc from "vscode-ws-jsonrpc";
 import { launch } from "./json-server-launcher";
 
